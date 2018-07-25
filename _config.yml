@@ -7,7 +7,7 @@ description: "Try everything for you before you buy."
 keyword: "Beauty, Girl, Woman, 美妆, 穿搭, 红人, 日常, 减肥，健康餐，运动，塑形"
 url: "http://Try-for-you.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Beautiever/Try-for-you.github.io.git" # you code repository
+github_repo: "https://github.com/Try-for-you/Try-for-you.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:    Try for you
 zhihu_username:     
-github_username:    Beautiever
+github_username:    Try-for-you
 facebook_username:  Ever Wang
 jianshu_username:   
 #twitter_username:   
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: Beautiever
+# disqus_username: Try-for-you
 
 # Gitalk
 gitalk:
@@ -65,8 +65,8 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: Try-for-you.github.io    #仓库名称
-  owner: Beautiever    #github用户名
-  admin: Beautiever
+  owner: Try-for-you    #github用户名
+  admin: Try-for-you
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
